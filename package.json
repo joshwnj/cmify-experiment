@@ -1,0 +1,23 @@
+{
+  "name": "cmify-experiment",
+  "version": "1.0.0",
+  "description": "A CSS Modules experiment",
+  "main": "index.js",
+  "scripts": {
+    "build": "monobrow -c monobrow.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "monobrow": "^1.1.2",
+    "babelify": "^6.3.0",
+    "browserify": "^11.0.1",
+    "through2": "^2.0.0"
+  }
+}
